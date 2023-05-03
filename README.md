@@ -1,6 +1,7 @@
 # 💫 Hi there, I'm Emre! a.k.a sevro49
 🔭 I’m currently learning JavaScript<br>⚡ Just trying to develop things 
-
+<br>
+<img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e475cwzwcm63iaxo6bhtp7whkwsmcdxb22wwvzkzsls&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/e.glrr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevro49/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/e_glrr) 
