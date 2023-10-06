@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Emre! a.k.a sevro49
-🔭 I’m currently learning Vue.js<br>⚡ Just trying to develop things 
+🔭 I’m currently learning React.js, TailwindCSS and developing a Spotify Clone<br>⚡ Just trying to develop things 
 <br>
 <img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e475cwzwcm63iaxo6bhtp7whkwsmcdxb22wwvzkzsls&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 
