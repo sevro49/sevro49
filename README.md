@@ -17,7 +17,7 @@
   <a href="https://drive.google.com/file/d/1UeshrF1wzab5ciLoY556f7G9kt7_I6eI/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="30" alt="resume"  />
   </a>
-   <a href="https://sevro49.github.io/My-Portfolio/public/index.html" target="_blank">
+   <a href="https://emreguler.com.tr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=microsoft-outlook&label=&color=F96854&logoColor=white&labelColor=&style=flat" height="30" alt="portfolio"  />
   </a>
 
