@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Emre! a.k.a sevro49
-🔭 I am currently developing an e-commerce platform to learn Next.js <br>💻 Working on World University Rankings (SPA) Version 2.0 <br>⚡ Just trying to develop things 
+🔭 I am currently working as a Freelance Frontend Developer <br>⚡ Just trying to develop things 
 <br>
 <img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e475cwzwcm63iaxo6bhtp7whkwsmcdxb22wwvzkzsls&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 
