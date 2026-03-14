@@ -8,14 +8,11 @@
   <a href="https://www.linkedin.com/in/sevro49/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://linktr.ee/sevro49" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="30" alt="linktree logo"  />
-  </a>
   <a href="https://drive.google.com/file/d/1U_lvl2--dAwPSInaM3Sq74BNpWvwXXbF/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume_EN&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="30" alt="resume"  />
+    <img src="https://img.shields.io/static/v1?message=Resume_EN&logo=microsoft-outlook&label=&color=d9372b&logoColor=white&labelColor=&style=flat" height="30" alt="resume"  />
   </a>
   <a href="https://drive.google.com/file/d/1R4gq7x90UeomHyyn7e2uK-WZu65qYVMl/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume_TR&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="30" alt="resume"  />
+    <img src="https://img.shields.io/static/v1?message=Resume_TR&logo=microsoft-outlook&label=&color=d9372b&logoColor=white&labelColor=&style=flat" height="30" alt="resume"  />
   </a>
    <a href="https://emreguler.com.tr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=microsoft-outlook&label=&color=F96854&logoColor=white&labelColor=&style=flat" height="30" alt="portfolio"  />
